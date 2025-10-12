@@ -1,6 +1,4 @@
 # EDGE-DETECTION
-## NAME:THAANESH.V
-## REG.NO:212223230228
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
@@ -25,8 +23,8 @@ Using Sobel operator from cv2,detect the edges of the image.
 Using Laplacian operator from cv2,detect the edges of the image and Using Canny operator from cv2,detect the edges of the image.
 ## program:
 ```
-Developed by : Pravin Raj A
-Reg.no: 212222240079
+Developed by : Thaanesh.V
+Reg.no: 212223230228
 ```
 
 ### Import the packages
